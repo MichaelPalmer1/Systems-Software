@@ -1,0 +1,26 @@
+Starting file collection on 02/25/15 13:25:26
+LIB Directory: /home/michael/programs/bash/project/lib
+SRC Directory: /home/michael/programs/bash/project/src
+INC Directory: /home/michael/programs/bash/project/inc
+BIN Directory: /home/michael/programs/bash/project/bin
+--------------
+Directory: /home/michael/programs/bash/project/files
+Moved /home/michael/programs/bash/project/files/libasdf.so to /home/michael/programs/bash/project/lib/libasdf.so
+Moved /home/michael/programs/bash/project/files/libblah.lib to /home/michael/programs/bash/project/lib/libblah.lib
+Moved /home/michael/programs/bash/project/files/test.c to /home/michael/programs/bash/project/src/test.c
+Moved /home/michael/programs/bash/project/files/test.cpp to /home/michael/programs/bash/project/src/test.cpp
+Moved /home/michael/programs/bash/project/files/testeasdfr.cc to /home/michael/programs/bash/project/src/testeasdfr.cc
+Moved /home/michael/programs/bash/project/files/tester.cxx to /home/michael/programs/bash/project/src/tester.cxx
+Moved /home/michael/programs/bash/project/files/filealksdjf.hxx to /home/michael/programs/bash/project/inc/filealksdjf.hxx
+Moved /home/michael/programs/bash/project/files/file.h to /home/michael/programs/bash/project/inc/file.h
+Moved /home/michael/programs/bash/project/files/test.h to /home/michael/programs/bash/project/inc/test.h
+Moved /home/michael/programs/bash/project/files/flkjasdf to /home/michael/programs/bash/project/bin/flkjasdf
+Moved /home/michael/programs/bash/project/files/test to /home/michael/programs/bash/project/bin/test
+Moved /home/michael/programs/bash/project/files/tester.sh to /home/michael/programs/bash/project/bin/tester.sh
+~~~~~~~~~~~~~~~~
+Directories Processed: 1
+Library Files Moved: 2
+Source Files Moved: 4
+Include Files Moved: 3
+Binary Files Moved: 3
+Execution Time: 31 ms
